@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Verified'])[4]/following::*[name()='svg'][1]</value>
+         <value>(//button[@type='button'])[7]</value>
       </entry>
       <entry>
          <key>BASIC</key>
@@ -22,6 +22,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;body-table&quot;)/tr[@class=&quot;MuiTableRow-root MuiTableRow-hover css-1rm2r37&quot;]/td[@class=&quot;MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight MuiTableCell-sizeMedium css-1vhatwg&quot;]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit MuiIconButton-sizeLarge css-1y930w8&quot;]/svg[@class=&quot;MuiBox-root css-1t9pz9x iconify iconify--eva&quot;]/circle[2]</value>
-      <webElementGuid>825b9838-ff68-488e-a128-b353dcbbb70d</webElementGuid>
+      <webElementGuid>19be86a2-5f2b-4033-bcb9-4e4706be8b7f</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

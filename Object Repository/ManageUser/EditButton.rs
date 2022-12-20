@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[2]/div[3]/div/li</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Not verified'])[2]/following::li[1]</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

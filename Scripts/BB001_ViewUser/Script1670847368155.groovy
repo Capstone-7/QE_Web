@@ -23,7 +23,7 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://tes-capstone-website.vercel.app/admin/login')
 
-WebUI.setText(findTestObject('Auth/Email'), 'rnd.rindhu@gmail.com')
+WebUI.setText(findTestObject('Auth/Email'), 'admin@nyakit.in')
 
 WebUI.setText(findTestObject('Auth/Password'), '@Password123')
 
